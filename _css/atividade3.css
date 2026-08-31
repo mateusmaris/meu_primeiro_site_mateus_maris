@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: purple;
+}
+h3{
+    color: green;
+}
+li{
+    color: black;
+}
+hr{
+    border: 1px solid orange;
+}
+div{
+    background-color: darkcyan;
+    width: 500px;
+    height: 200px;
+    border: 20px solid yellow;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+}
